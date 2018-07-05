@@ -1,6 +1,7 @@
 package com.example.android.miwok;
 
 import android.util.Log;
+//good Job
 
 public class student extends person {
 
