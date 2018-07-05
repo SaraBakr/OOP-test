@@ -2,8 +2,10 @@ package com.example.android.miwok;
 
 public class person {
     private String name;
+    //make the Age age use a small
     private int Age;
     private String gender;
+    //good job by writing setName but write a setAge and setGender
     public void setName(String name1){
         name=name1;
     }
